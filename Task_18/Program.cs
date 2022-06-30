@@ -20,6 +20,6 @@ if ( num> 0 && num < 5)
 }
 else 
 {
-    result = "ВВедены не корректные данные";
+    result = "Введены не корректные данные";
 }
 Console.WriteLine(result);
