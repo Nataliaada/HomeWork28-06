@@ -5,17 +5,17 @@
 
 
 
-Console.WriteLine("Введите  координтаты точки  X1");
+Console.WriteLine("Введите  координаты точки  X1");
 int x1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите  координтаты точки Y1");
+Console.WriteLine("Введите  координаты точки Y1");
 int y1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите  координтаты точки Z1");
+Console.WriteLine("Введите  координаты точки Z1");
 int z1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите  координтаты точки X2");
+Console.WriteLine("Введите  координаты точки X2");
 int x2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите  координтаты точки  Y2");
+Console.WriteLine("Введите  координаты точки  Y2");
 int y2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите  координтаты точки Z2");
+Console.WriteLine("Введите  координаты точки Z2");
 int z2 = Convert.ToInt32(Console.ReadLine());
 double Distance(int a1, int b1, int z1, int a2, int b2, int z2)
 {
